@@ -43,7 +43,6 @@ function equal() {
 
 }
 
-
 function deleting(){
    elements.pop()
    clearing()
