@@ -51,31 +51,3 @@ function deleting(){
    }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* db b9a Design w nzido des operation w7din okhrin  */
